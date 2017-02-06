@@ -1,0 +1,29 @@
+.topbar {
+    font-family: 'Barrio', cursive;
+    background-color: #eae4ce;
+}
+
+p, h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.aboutme {
+    border: 2px solid;
+}
+
+.glyphicon.glyphicon-phone {
+    font-size: 30px;
+}
+
+.glyphicon.glyphicon-envelope {
+    font-size: 30px;
+}
+
+.glyphicon.glyphicon-home {
+    font-size: 30px;
+}
+
+.sidebar {
+  background-color: #1EBA09;
+  height: 500px;
+}
